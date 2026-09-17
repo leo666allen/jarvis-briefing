@@ -1,10 +1,34 @@
 {
   "date": "2026-09-17",
-  "generated_at": "2026-09-17T12:41:23.070Z",
+  "generated_at": "2026-09-17T13:44:17.642Z",
   "categories": {
-    "国际政治": 12,
-    "经济": 8,
-    "社会": 8,
-    "科技": 8
-  }
+    "国际政治": 6,
+    "经济": 3,
+    "社会": 2,
+    "科技": 2
+  },
+  "sources": {
+    "xinhua-world": "ok",
+    "rmrb-front": "ok",
+    "chinadaily": "ok",
+    "people-world": "ok",
+    "people-politics": "ok",
+    "chinanews": "ok",
+    "solidot": "ok",
+    "sspai": "ok",
+    "xinhua-politics": "failed",
+    "ifanr": "ok",
+    "ft-zh": "ok",
+    "guardian": "ok",
+    "nytimes-zh": "ok",
+    "bbc-tech": "ok",
+    "npr": "ok",
+    "dw-zh": "failed",
+    "bbc-business": "ok",
+    "bbc-world": "ok",
+    "bbc-zh": "ok",
+    "aljazeera": "ok",
+    "bbc-science": "ok"
+  },
+  "unavailable_note": "参考消息：网站为动态渲染，暂无法自动抓取，已如实说明"
 }
