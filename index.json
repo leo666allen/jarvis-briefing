@@ -1,12 +1,12 @@
 {
-  "date": "2026-10-02",
-  "generated_at": "2026-10-01T23:56:36.915Z",
+  "date": "2026-10-03",
+  "generated_at": "2026-10-02T23:11:45.839Z",
   "categories": {
-    "国内要闻": 4,
-    "国际政治": 10,
-    "经济": 3,
-    "社会": 2,
-    "科技": 3
+    "国内要闻": 3,
+    "国际政治": 9,
+    "经济": 2,
+    "社会": 1,
+    "科技": 2
   },
   "sources": {
     "xinhua-world": "ok",
@@ -18,25 +18,25 @@
     "cas-cn": "ok",
     "ifeng": "ok",
     "cankaoxiaoxi": "ok",
-    "chinanews": "ok",
     "people-world": "failed",
     "people-politics": "failed",
     "xinhua-politics": "failed",
-    "science": "ok",
-    "bbc-business": "ok",
-    "nyt": "ok",
+    "chinanews": "ok",
     "aljazeera": "ok",
-    "npr": "ok",
-    "nytimes-zh": "failed",
     "guardian": "ok",
-    "bbc-science": "ok",
-    "bbc-tech": "ok",
-    "bbc-world": "ok",
-    "nature": "ok",
+    "nyt": "ok",
     "dw-zh": "ok",
-    "bbc-zh": "ok",
+    "science": "ok",
+    "nature": "ok",
     "ft-zh": "failed",
-    "abc": "ok"
+    "npr": "ok",
+    "bbc-business": "ok",
+    "bbc-world": "ok",
+    "nytimes-zh": "failed",
+    "bbc-tech": "ok",
+    "abc": "ok",
+    "bbc-science": "ok",
+    "bbc-zh": "ok"
   },
   "unavailable_note": "参考消息：网站为动态渲染，暂无法自动抓取，已如实说明"
 }
